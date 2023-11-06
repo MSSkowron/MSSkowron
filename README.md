@@ -4,7 +4,7 @@
 
 <h2 align="left">About Me</h2>
 
-I am a passionate, **fourth-year computer science student** with **experience working as a software developer**. My enthusiasm for computer science drives me to continuously learn and explore new technologies.
+I am a passionate, **fourth-year computer science student** with experience working as a software developer. My enthusiasm for computer science drives me to continuously learn and explore new technologies. My primary focus lies in backend and cloud technologies, but I also enjoy the occasional foray into frontend development 😃.
 
 <hr/>
 
