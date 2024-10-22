@@ -25,6 +25,7 @@ I am a passionate, **fifth-year computer science student** with experience worki
 
 <h3 align="left">Frontend Frameworks & Libraries</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/react-original.svg?size=50&color=currentColor" alt="react" width="50" height="50"/> </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/> </a>
 <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" alt="hugo" width="50" height="50"/> </a>
 
 
@@ -40,10 +41,13 @@ I am a passionate, **fifth-year computer science student** with experience worki
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/docker-original.svg?size=50&color=currentColor" alt="docker" width="50" height="50"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/></a>
 <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" alt="helm" width="50" height="50"/></a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="prometheus" width="50" height="50"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=50&color=currentColor" alt="aws" width="50" height="50"/></a>
 <a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" alt="gRPC" width="50" height="50"/></a>
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="50" height="50"/> </a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" width="50" height="50"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/> </a>
 
 </p>
 
