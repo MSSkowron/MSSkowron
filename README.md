@@ -8,7 +8,8 @@ I am a passionate, **fifth-year computer science student** with experience worki
 
 <hr/>
 
-<h2 align="left">I've used</h2>
+<h2 align="left">Skills & Technologies</h2>
+
 <h3 align="left">Languages</h3>
 <p align="left"> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/go-original.svg?size=50&color=currentColor" alt="go" width="50" height="50"/></a>
@@ -22,8 +23,10 @@ I am a passionate, **fifth-year computer science student** with experience worki
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor" alt="cplusplus" width="50" height="50"/> </a>
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=MSSkowron&show_icons=true&locale=en&layout=compact&hide=html,jupyter%20notebook" alt="MSSkowron" /></p>
 
-<h3 align="left">Frameworks & Libraries</h3>
+<h3 align="left">Frontend Frameworks & Libraries</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/react-original.svg?size=50&color=currentColor" alt="react" width="50" height="50"/> </a>
+<a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" alt="hugo" width="50" height="50"/> </a>
+
 
 <h3 align="left">Databases</h3>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor" alt="postgresql" width="50" height="50"/> </a>
@@ -36,10 +39,12 @@ I am a passionate, **fifth-year computer science student** with experience worki
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/gitlab-original.svg?size=50&color=currentColor" alt="gitLab" width="50" height="50"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/docker-original.svg?size=50&color=currentColor" alt="docker" width="50" height="50"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/></a>
-<a href="https://pl.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor" alt="linux" width="50" height="50"/></a>
+<a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" alt="helm" width="50" height="50"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=50&color=currentColor" alt="aws" width="50" height="50"/></a>
+<a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="gRPC" width="50" height="50"/></a>
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/> </a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="50" height="50"/> </a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="50" height="50"/> </a>
+
 </p>
 
 <hr/>
