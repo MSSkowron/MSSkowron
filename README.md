@@ -41,7 +41,7 @@ I am a passionate, **fifth-year computer science student** with experience worki
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/></a>
 <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" alt="helm" width="50" height="50"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=50&color=currentColor" alt="aws" width="50" height="50"/></a>
-<a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="gRPC" width="50" height="50"/></a>
+<a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" alt="gRPC" width="50" height="50"/></a>
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="50" height="50"/> </a>
 
