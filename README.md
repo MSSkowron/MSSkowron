@@ -23,7 +23,7 @@ I am a passionate, **fifth-year computer science student** with experience worki
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=MSSkowron&show_icons=true&locale=en&layout=compact&hide=html,jupyter%20notebook" alt="MSSkowron" /></p>
 
 <h3 align="left">Frameworks & Libraries</h3>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/react-original.svg?size=50&color=currentColor" alt="react" width="50" height="50"/> </a>
 
 <h3 align="left">Databases</h3>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor" alt="postgresql" width="50" height="50"/> </a>
