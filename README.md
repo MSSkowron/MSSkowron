@@ -4,7 +4,7 @@
 
 <h2 align="left">About Me</h2>
 
-I am a passionate, **fifth-year computer science student** with experience working as a software developer. My primary focus is on **backend development**, specializing in **Golang** and **Kubernetes**, with a strong emphasis on **batch processing using the Kubernetes platform**. While I thrive on solving complex challenges in cloud technologies and distributed systems, I also enjoy the occasional foray into frontend development 😃.
+I am a passionate, **fifth-year computer science student** with experience working as a software developer. My primary focus is on **backend development**, specializing in **Golang** and **Kubernetes**, with a strong emphasis on **batch processing using the Kubernetes platform**. While I thrive on solving complex challenges in **cloud technologies** and **distributed systems**, I also enjoy the occasional foray into frontend development 😃.
 
 <hr/>
 
